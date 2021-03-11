@@ -1,0 +1,16 @@
+.Layout{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  ul.nav-ul{
+    list-style-type: none;
+  }
+  
+  li.nav-li{
+    display: inline;
+    margin-right: 30px;
+  }
+  
+  
